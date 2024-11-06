@@ -3,7 +3,7 @@
 A Flask web application that predicts the most suitable crop based on soil and environmental parameters using a Random Forest algorithm.
 
 ## Demo Screenshot
-![Crop Recommendation System Interface]
+![Crop Recommendation System Interface](https://github.com/iamgopinathbehera/Crop-Recommendation-System/blob/main/static/app.png?raw=true)
 *Interactive web interface for crop recommendation based on environmental parameters*
 
 ## Overview
@@ -48,8 +48,7 @@ The Random Forest model was selected for its superior accuracy of 99.54%.
 ## Setup & Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/crop-recommendation.git
-
+git clone https://github.com/iamgopinathbehera/Crop-Recommendation-System.git
 
 # Run the application
 python app.py
@@ -80,3 +79,5 @@ pandas==1.3.3
 scikit-learn==0.24.2
 ```
 
+## Developer
+- [Gopinath Behera](https://github.com/iamgopinathbehera)
