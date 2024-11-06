@@ -3,7 +3,8 @@
 A Flask web application that predicts the most suitable crop based on soil and environmental parameters using a Random Forest algorithm.
 
 ## Demo Screenshot
-![Crop Recommendation System Interface](project_screenshot.png)
+![Crop Recommendation System Interface](![Uploading Screenshot 2024-11-06 174804.png…]()
+)
 *Interactive web interface for crop recommendation based on environmental parameters*
 
 ## Overview
